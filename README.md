@@ -17,6 +17,3 @@ import NxXhr from 'next-xhr';
 
 // code goes here:
 ```
-
-## resources
-- https://github.com/afeiship
